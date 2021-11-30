@@ -213,3 +213,7 @@ func (h *ConsistentHash) Get(v interface{}) (interface{}, bool) {
 	}
 }
 ```
+
+## 参考链接
+
+<a href="https://mp.weixin.qq.com/s/V8nOmxWchnK97aJLEeT6WA">微服务实践</a>
